@@ -1,6 +1,6 @@
 #set input and output folder
-inputfolder = "C:/Users/gramirez/Desktop/#yali"
-outputfolder = "C:/Users/gramirez/Desktop/#yali/output"
+inputfolder = ""
+outputfolder = ""
 
 #choose to analyze net
 analyzenet = TRUE
